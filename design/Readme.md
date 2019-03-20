@@ -14,7 +14,7 @@
   * 窗帘
   
 # 北房间
-  * 衣橱
+  * [衣橱](NorthBedroomWardrobe.md)
   * 窗帘
   
 # 厨房
