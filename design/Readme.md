@@ -10,7 +10,7 @@
   * 窗帘
   
 # 西房间
-  * [衣橱 + 地台床](eastBedroomWardrobe.md)
+  * [衣橱 + 地台床](WestBedroom.md)
   * 窗帘
   
 # 北房间
